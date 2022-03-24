@@ -1,4 +1,4 @@
-# site-refactor
+# Horiseon-Site-Refactor
 Horiseon's site is refactored to follow accessibility standards and has been optimized for search engines.
 
 ## Who is Horiseon For?
