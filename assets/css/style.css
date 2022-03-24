@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* the following 3 selectors have switched from div to nav to reflect the changes for the Semantic HTML elements */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -54,13 +56,9 @@ p {
     margin-bottom: 25px;
 }
 
+/* The figure's image has inherited the width of the figure to match the previous styling*/
 figure img {
     width: 100%;
-}
-
-figcaption {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
 }
 
 .float-left {

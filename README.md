@@ -28,7 +28,7 @@ Each image and icon on the Horiseon site contains alternative text for screen re
 
 ## Usage
 
-The best way to use this site is by just visiting the page yourself here on github by clicking on the link below:
+The best way to use this site is to visit the page here on github by clicking on the link below:
 
 [Horiseon](https://coderbennett.github.io/site-refactor/)
 
