@@ -19,12 +19,11 @@ The site contains HTML elements such as &lt;nav&gt;, &lt;header&gt;, &lt;footer&
 Each image and icon on the Horiseon site contains alternative text for screen readers and in the case that the images cannot be loaded. The snippet of code below shows 3 examples of how this is represented in the HTML:
 
 ```
-<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Desktop view of a notebook with the core Search Engine Optimization factors written on it."/>
-
-<img class="hero" alt="Four people around a table discuss ideas and concepts in the workplace."/>
-
-
 <img src="./assets/images/lead-generation.png" alt="Lead Generation Process Icon"/>
+
+<img src="./assets/images/digital-marketing-meeting.jpg" alt="Four employees around a table discuss ideas and concepts in the workplace."/>
+
+<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="Desktop view of a notebook with the core Search Engine Optimization factors written on it."/>
 ```
 
 ## Usage
